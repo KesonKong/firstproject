@@ -1,0 +1,9 @@
+F:\ASPNET_学习\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+F:\ASPNET_学习\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+F:\ASPNET_学习\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+F:\ASPNET_学习\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+F:\ASPNET_学习\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+F:\ASPNET_学习\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+F:\ASPNET_学习\HelloWorld\firstproject\HelloWorld\bin\Debug\HelloWorld.exe.config
+F:\ASPNET_学习\HelloWorld\firstproject\HelloWorld\obj\Debug\HelloWorld.exe
+F:\ASPNET_学习\HelloWorld\firstproject\HelloWorld\obj\Debug\HelloWorld.pdb
