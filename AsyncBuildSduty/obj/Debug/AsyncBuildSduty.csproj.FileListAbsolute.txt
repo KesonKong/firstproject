@@ -1,0 +1,5 @@
+F:\ASPNET_学习\HelloWorld\firstproject\AsyncBuildSduty\bin\Debug\AsyncBuildSduty.exe.config
+F:\ASPNET_学习\HelloWorld\firstproject\AsyncBuildSduty\bin\Debug\AsyncBuildSduty.exe
+F:\ASPNET_学习\HelloWorld\firstproject\AsyncBuildSduty\bin\Debug\AsyncBuildSduty.pdb
+F:\ASPNET_学习\HelloWorld\firstproject\AsyncBuildSduty\obj\Debug\AsyncBuildSduty.exe
+F:\ASPNET_学习\HelloWorld\firstproject\AsyncBuildSduty\obj\Debug\AsyncBuildSduty.pdb

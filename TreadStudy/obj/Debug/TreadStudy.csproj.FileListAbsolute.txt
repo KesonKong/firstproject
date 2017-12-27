@@ -1,0 +1,6 @@
+F:\ASPNET_学习\HelloWorld\firstproject\TreadStudy\bin\Debug\TreadStudy.exe.config
+F:\ASPNET_学习\HelloWorld\firstproject\TreadStudy\bin\Debug\TreadStudy.exe
+F:\ASPNET_学习\HelloWorld\firstproject\TreadStudy\bin\Debug\TreadStudy.pdb
+F:\ASPNET_学习\HelloWorld\firstproject\TreadStudy\obj\Debug\TreadStudy.exe
+F:\ASPNET_学习\HelloWorld\firstproject\TreadStudy\obj\Debug\TreadStudy.pdb
+F:\ASPNET_学习\HelloWorld\firstproject\TreadStudy\obj\Debug\TreadStudy.csprojResolveAssemblyReference.cache

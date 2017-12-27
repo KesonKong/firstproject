@@ -1,0 +1,5 @@
+F:\ASPNET_学习\HelloWorld\firstproject\DelegateForObserver\bin\Debug\DelegateForObserver.exe.config
+F:\ASPNET_学习\HelloWorld\firstproject\DelegateForObserver\bin\Debug\DelegateForObserver.exe
+F:\ASPNET_学习\HelloWorld\firstproject\DelegateForObserver\bin\Debug\DelegateForObserver.pdb
+F:\ASPNET_学习\HelloWorld\firstproject\DelegateForObserver\obj\Debug\DelegateForObserver.exe
+F:\ASPNET_学习\HelloWorld\firstproject\DelegateForObserver\obj\Debug\DelegateForObserver.pdb

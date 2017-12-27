@@ -1,0 +1,5 @@
+F:\ASPNET_学习\HelloWorld\firstproject\DelegateSduty\bin\Debug\DelegateSduty.exe.config
+F:\ASPNET_学习\HelloWorld\firstproject\DelegateSduty\bin\Debug\DelegateSduty.exe
+F:\ASPNET_学习\HelloWorld\firstproject\DelegateSduty\bin\Debug\DelegateSduty.pdb
+F:\ASPNET_学习\HelloWorld\firstproject\DelegateSduty\obj\Debug\DelegateSduty.exe
+F:\ASPNET_学习\HelloWorld\firstproject\DelegateSduty\obj\Debug\DelegateSduty.pdb

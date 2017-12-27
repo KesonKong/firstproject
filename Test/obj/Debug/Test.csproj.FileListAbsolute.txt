@@ -1,0 +1,5 @@
+F:\ASPNET_学习\HelloWorld\firstproject\Test\bin\Debug\Test.exe.config
+F:\ASPNET_学习\HelloWorld\firstproject\Test\bin\Debug\Test.exe
+F:\ASPNET_学习\HelloWorld\firstproject\Test\bin\Debug\Test.pdb
+F:\ASPNET_学习\HelloWorld\firstproject\Test\obj\Debug\Test.exe
+F:\ASPNET_学习\HelloWorld\firstproject\Test\obj\Debug\Test.pdb

@@ -1,0 +1,6 @@
+F:\ASPNET_学习\HelloWorld\firstproject\TreadTask\bin\Debug\TreadTask.exe.config
+F:\ASPNET_学习\HelloWorld\firstproject\TreadTask\bin\Debug\TreadTask.exe
+F:\ASPNET_学习\HelloWorld\firstproject\TreadTask\bin\Debug\TreadTask.pdb
+F:\ASPNET_学习\HelloWorld\firstproject\TreadTask\obj\Debug\TreadTask.csprojResolveAssemblyReference.cache
+F:\ASPNET_学习\HelloWorld\firstproject\TreadTask\obj\Debug\TreadTask.exe
+F:\ASPNET_学习\HelloWorld\firstproject\TreadTask\obj\Debug\TreadTask.pdb

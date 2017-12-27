@@ -1,0 +1,6 @@
+F:\ASPNET_学习\HelloWorld\firstproject\ThreadPoolStudy\bin\Debug\ThreadPoolStudy.exe.config
+F:\ASPNET_学习\HelloWorld\firstproject\ThreadPoolStudy\bin\Debug\ThreadPoolStudy.exe
+F:\ASPNET_学习\HelloWorld\firstproject\ThreadPoolStudy\bin\Debug\ThreadPoolStudy.pdb
+F:\ASPNET_学习\HelloWorld\firstproject\ThreadPoolStudy\obj\Debug\ThreadPoolStudy.csprojResolveAssemblyReference.cache
+F:\ASPNET_学习\HelloWorld\firstproject\ThreadPoolStudy\obj\Debug\ThreadPoolStudy.exe
+F:\ASPNET_学习\HelloWorld\firstproject\ThreadPoolStudy\obj\Debug\ThreadPoolStudy.pdb
